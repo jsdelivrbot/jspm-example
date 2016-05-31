@@ -1,0 +1,1 @@
+module.exports = require("npm:http-auth@2.2.9/gensrc/http-auth.js");

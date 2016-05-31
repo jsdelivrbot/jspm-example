@@ -1,0 +1,1 @@
+module.exports = require("npm:morgan@1.7.0/index");

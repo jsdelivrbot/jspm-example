@@ -1,0 +1,1 @@
+module.exports = require("npm:htpasswd@2.2.2/gensrc/htpasswd.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:colors@0.6.2/colors");

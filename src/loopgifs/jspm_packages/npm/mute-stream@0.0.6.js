@@ -1,0 +1,1 @@
+module.exports = require("npm:mute-stream@0.0.6/mute.js");

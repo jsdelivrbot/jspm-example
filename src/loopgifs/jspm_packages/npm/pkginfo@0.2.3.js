@@ -1,0 +1,1 @@
+module.exports = require("npm:pkginfo@0.2.3/lib/pkginfo");

@@ -1,0 +1,1 @@
+module.exports = require("npm:winston@0.6.2/lib/winston");

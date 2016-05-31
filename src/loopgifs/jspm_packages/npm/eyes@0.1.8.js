@@ -1,0 +1,1 @@
+module.exports = require("npm:eyes@0.1.8/lib/eyes");

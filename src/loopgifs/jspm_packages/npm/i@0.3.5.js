@@ -1,0 +1,1 @@
+module.exports = require("npm:i@0.3.5/lib/inflect");

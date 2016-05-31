@@ -1,0 +1,1 @@
+module.exports = require("npm:utile@0.2.1/lib/index");

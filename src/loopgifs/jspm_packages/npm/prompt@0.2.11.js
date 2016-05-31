@@ -1,0 +1,1 @@
+module.exports = require("npm:prompt@0.2.11/lib/prompt");

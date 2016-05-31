@@ -1,0 +1,1 @@
+module.exports = require("npm:revalidator@0.1.8/lib/revalidator");

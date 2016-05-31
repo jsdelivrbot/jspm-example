@@ -1,0 +1,1 @@
+module.exports = require("npm:stack-trace@0.0.9/lib/stack-trace");
